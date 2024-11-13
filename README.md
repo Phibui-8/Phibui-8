@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fiber
+- 👀 I’m interested in coding and games
+- 🌱 I’m currently learning HTML, C++, ...
+- 😄 Pronouns: He/ Him
